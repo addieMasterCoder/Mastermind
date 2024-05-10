@@ -68,12 +68,12 @@ class Program
                     }
                     else
                     {
-                        Console.WriteLine("The number must be between 1 and 6.");
+                        Console.WriteLine("Please enter an integer between 1 and 6.");
                     }
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid integer.");
+                    Console.WriteLine("Please enter one of the following integers: 1, 2, 3, 4, 5, or 6.");
                 }
             }
 
@@ -91,12 +91,12 @@ class Program
                     }
                     else
                     {
-                        Console.WriteLine("The number must be between 1 and 6.");
+                        Console.WriteLine("Please enter an integer between 1 and 6.");
                     }
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid integer.");
+                    Console.WriteLine("Please enter one of the following integers: 1, 2, 3, 4, 5, or 6.");
                 }
             }
 
@@ -114,12 +114,12 @@ class Program
                     }
                     else
                     {
-                        Console.WriteLine("The number must be between 1 and 6.");
+                        Console.WriteLine("Please enter an integer between 1 and 6.");
                     }
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid integer.");
+                    Console.WriteLine("Please enter one of the following integers: 1, 2, 3, 4, 5, or 6.");
                 }
             }
 
@@ -138,12 +138,12 @@ class Program
                     }
                     else
                     {
-                        Console.WriteLine("The number must be between 1 and 6.");
+                        Console.WriteLine("Please enter an integer between 1 and 6.");
                     }
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("Invalid input. Please enter a valid integer.");
+                    Console.WriteLine("Please enter one of the following integers: 1, 2, 3, 4, 5, or 6.");
                 }
             }
 
