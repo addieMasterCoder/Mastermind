@@ -1,0 +1,14 @@
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfo.cs
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.exe
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.deps.json
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.runtimeconfig.json
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.dll
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.pdb
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.dll
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\refint\Mastermind.dll
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.pdb
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.genruntimeconfig.cache
+C:\Users\Dylan\source\repos\Mastermind\Mastermind\obj\Debug\net8.0\ref\Mastermind.dll
